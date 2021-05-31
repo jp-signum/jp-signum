@@ -18,7 +18,7 @@ Extensive experience within the education technology sector coupled with my pass
 
 ## Connect With Me
 
-:bird: [twitter@jp_signum](https://twitter.com/jp_Signum)
+:bird: [twitter](https://twitter.com/jp_Signum)
 
 :link: [linkedIn](https://www.linkedin.com/in/pjmorgan)
 
