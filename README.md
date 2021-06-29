@@ -4,9 +4,9 @@ Extensive experience within the education technology sector coupled with my pass
 
 ## Currently Working On 
 
-:construction: A full rebrand of my consulting agency, [JP Signum](https://www.jpsignum.com). I am tryign to be the first full-service sustainability and carbon education platform/consulting group. Newsletter coming soon... 
+:construction: A full rebrand and new build out of my consulting agency, [JP Signum](https://www.jpsignum.com). I am tryign to be the first full-service sustainability and carbon education platform/consulting group. Newsletter coming soon... 
 
-:radio: A online radio platform with AR, VR, audio visual, and decentralized blockchain technologies.
+:radio: A online radio platform with AR, VR, audio, visual, and decentralized blockchain technologies.
 
 ## From The Blog
 
