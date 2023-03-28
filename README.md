@@ -12,9 +12,9 @@ Extensive experience within the education technology sector coupled with my pass
 
 :movie_camera: [How to Answer a Technical Question in an Interview](https://www.youtube.com/watch?v=-cGg9G4Bt-o)
 
-:movie_camera: [Front-End vs Back-End Development](https://www.youtube.com/watch?v=-cGg9G4Bt-o)
+:movie_camera: [Front-End vs Back-End Development](https://www.youtube.com/watch?v=9yq62ySFNLw)
 
-:movie_camera: [How to Answer a Technical Question in an Interview](https://www.youtube.com/watch?v=-cGg9G4Bt-o)
+:movie_camera: [Data Structures](https://www.youtube.com/watch?v=ubR5hrljb5s)
 
 :snake: [Python Web Scraping and Data Aggregation Pipelines](https://www.jpsignum.com/blog/5c6ba462f909a641d754fe79)
 
