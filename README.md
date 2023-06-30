@@ -1,12 +1,6 @@
 # Patrick Morgan :golf:
 
-Extensive experience within the education technology sector coupled with my passion for teaching others computer science has shaped my career over the years. I hold a B.S. in Biochemistry from Syracuse University and am working towards my M.S. in Sustainability Science. I am a licensed private career school teacher in computer programming through the New York State Education Department. I am also a certified APMG university instructor in cybersecurity through ISACA.
-
-## Currently Working On
-
-:construction: A full rebrand and new build-out of my consulting agency, [JP Signum](https://www.jpsignum.com). I am trying to be the first full-service sustainability and carbon education platform/consulting group. Stay tuned for the newsletter.
-
-:radio: A online radio platform with AR, VR, audio, visual, and AI technologies.
+Extensive experience within the education technology sector coupled with my passion for teaching others computer science has shaped my career over the years. I hold a B.S. in Biochemistry from Syracuse University and am working towards my M.S. in Sustainability Science. I am a licensed private career school teacher in computer programming through the New York State Education Department. I am also a certified APMG university instructor in cybersecurity through ISACA. I am an English first language speaker and have just recently begun my journey to learning Japanese, ganbatte.
 
 ## Around The Web
 
@@ -20,9 +14,19 @@ Extensive experience within the education technology sector coupled with my pass
 
 :book: [Closures in Javascript](https://gist.github.com/jp-signum/286e0d618936661b9638ef0eec58f755)
 
+## Currently Working On
+
+:construction: A full rebrand and new build-out of my consulting agency, [JP Signum](https://www.jpsignum.com). I am trying to be the first full-service sustainability and carbon education platform/consulting group. Stay tuned for the newsletter.
+
+:radio: A online radio platform with AR, VR, audio, visual, and AI technologies.
+
 ## Books
 
 ### Currently Reading:
+
+:computer: The Software Engineer's Path
+
+:computer: An Elegant Puzzle: Systems of Engineering Management
 
 :star: Isac Asimov's Second Foundation
 
