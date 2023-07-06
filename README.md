@@ -1,6 +1,6 @@
 # Patrick Morgan :golf:
 
-Extensive experience within the education technology sector coupled with my passion for teaching others computer science has shaped my career over the years. I hold a B.S. in Biochemistry from Syracuse University and am working towards my M.S. in Sustainability Science. I am a licensed private career school teacher in computer programming through the New York State Education Department. I am also a certified APMG university instructor in cybersecurity through ISACA. I am an English first language speaker and have just recently begun my journey to learning Japanese, ganbatte.
+Extensive experience within the education technology sector and my passion for teaching others computer science has shaped my career over the years. I hold a B.S. in Biochemistry from Syracuse University and am working towards my M.S. in Sustainability Science. I am a licensed private career school teacher in computer programming through the New York State Education Department. I am also a certified APMG university instructor in cybersecurity through ISACA. I am an English first language speaker and have recently begun my journey to learning Japanese, ganbatte.
 
 ## Around The Web
 
@@ -16,7 +16,7 @@ Extensive experience within the education technology sector coupled with my pass
 
 ## Currently Working On
 
-:construction: A full rebrand and new build-out of my consulting agency, [JP Signum](https://www.jpsignum.com). I am trying to be the first full-service sustainability and carbon education platform/consulting group. Stay tuned for the newsletter.
+:construction: A full rebrand and new build-out of my consulting agency, [JP Signum](https://www.jpsignum.com). I want to be the first full-service sustainability and carbon education platform/consulting group.
 
 :radio: A online radio platform with AR, VR, audio, visual, and AI technologies.
 
@@ -24,7 +24,7 @@ Extensive experience within the education technology sector coupled with my pass
 
 ### Currently Reading:
 
-:computer: The Software Engineer's Path
+:computer: The Staff Engineer's Path
 
 :computer: An Elegant Puzzle: Systems of Engineering Management
 
@@ -38,7 +38,7 @@ Extensive experience within the education technology sector coupled with my pass
 
 :brain: Godel, Escher, Bach: An Eternal Golden Braid
 
-### All Time Favorites:
+### All-Time Favorites:
 
 :computer: Design Patterns: Elements of Reusable Object-Oriented Software
 
@@ -60,7 +60,6 @@ Extensive experience within the education technology sector coupled with my pass
 
 :dog: Fiji - age five, chihuahua.
 
-:leaves: Calatheas are both the bane of my existence and my pride and joy. Commonly called prayer plants, their leaves move throughout the day due to photosensitivity.  My next favorites are my [tradescantia](https://www.google.com/search?q=tradescantia&sxsrf=APwXEdejQGz96Mt1aQaFmI30FSP_4uqG9A%3A1688057251014&ei=orWdZLyePJyj5NoPurqDwA4&ved=0ahUKEwi897im9-j_AhWcEVkFHTrdAOgQ4dUDCBA&uact=5&oq=tradescantia&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCCMQigUQJzIKCC4QigUQsQMQQzINCC4QgAQQFBCHAhCxAzIOCAAQigUQsQMQgwEQkQIyCAgAEIoFEJECMgoIABCABBAUEIcCMggIABCKBRCRAjIKCC4QigUQsQMQQzIFCC4QgAQyBQgAEIAEOgoIABBHENYEELADOgoIABCKBRCwAxBDOg0IABDkAhDWBBCwAxgBOg8ILhCKBRDIAxCwAxBDGAI6EgguEIoFENQCEMgDELADEEMYAkoECEEYAFC9DFi9DGDmD2gBcAF4AIAB4wGIAeMBkgEDMi0xmAEAoAECoAEBwAEByAET2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz-serp) and my [aglaonema hybrids](https://www.google.com/search?q=aglaonema+plant&sxsrf=APwXEdeFnKb01swdGlgAIt-_XjL2mM16GA%3A1688057186947&ei=YrWdZLuuOaPl5NoPkrKh6Ag&gs_ssp=eJzj4tTP1TewtMw1rTJg9OJPTM9JzM9LzU1UKMhJzCsBAHazCQs&oq=aglaonema&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgcILhCKBRAnMgcIIxCKBRAnMg0IABCABBAUEIcCELEDMggIABCABBCxAzIICAAQgAQQsQMyBwgAEIoFEEMyBwgAEIoFEEMyCAgAEIAEELEDMgUIABCABDIFCAAQgAQyEwguEIoFEJcFENwEEN4EEN8EGAM6BAgAEEc6CggAEEcQ1gQQsAM6CggAEIoFELADEEM6DQgAEOQCENYEELADGAE6DwguEIoFEMgDELADEEMYAjoSCC4QigUQ1AIQyAMQsAMQQxgCSgQIQRgAUOreA1jq3gNg7OoDaANwAngAgAG6AYgBugGSAQMwLjGYAQCgAQHAAQHIARPaAQYIARABGAnaAQYIAhABGAjaAQYIAxABGBQ&sclient=gws-wiz-serp).
 
 ## Connect With Me
 
