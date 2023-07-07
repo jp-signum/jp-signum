@@ -20,9 +20,9 @@ Extensive experience within the education technology sector and my passion for t
 
 :radio: A online radio platform with AR, VR, audio, visual, and AI technologies.
 
-## Books
+## Book Club
 
-### Currently Reading:
+### In Rotation:
 
 :computer: The Staff Engineer's Path
 
@@ -59,7 +59,6 @@ Extensive experience within the education technology sector and my passion for t
 ## Family
 
 :dog: Fiji - age five, chihuahua.
-
 
 ## Connect With Me
 
