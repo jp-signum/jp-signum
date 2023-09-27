@@ -14,52 +14,6 @@ Extensive experience within the education technology sector and my passion for t
 
 :book: [Closures in Javascript](https://gist.github.com/jp-signum/286e0d618936661b9638ef0eec58f755)
 
-## Currently Working On
-
-:construction: A full rebrand and new build-out of my consulting agency, [JP Signum](https://www.jpsignum.com). I want to be the first full-service sustainability and carbon education platform/consulting group.
-
-:radio: A online radio platform with AR, VR, audio, visual, and AI technologies.
-
-## Book Club
-
-### In Rotation:
-
-:computer: The Staff Engineer's Path
-
-:computer: An Elegant Puzzle: Systems of Engineering Management
-
-:star: Isac Asimov's Second Foundation
-
-:earth_americas: Environmentally Sustainable Growth: A Pragmatic Approach
-
-### Up Next:
-
-:milky_way: The Three-Body Problem
-
-:brain: Godel, Escher, Bach: An Eternal Golden Braid
-
-### All-Time Favorites:
-
-:computer: Design Patterns: Elements of Reusable Object-Oriented Software
-
-:computer: Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century
-
-:information_desk_person: Team Topologies: Organizing Business and Technology Teams for Fast Flow
-
-:brain: Pragmatic Thinking and Learning
-
-:brain: Anything by Bruce Lee
-
-:desert: Dune, the original trilogy
-
-:herb: The Day of the Triffids
-
-:office: The Lathe of Heaven
-
-## Family
-
-:dog: Fiji - age five, chihuahua.
-
 ## Connect With Me
 
 :link: [LinkedIn](https://www.linkedin.com/in/pjmorgan)
