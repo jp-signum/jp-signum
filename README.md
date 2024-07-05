@@ -1,18 +1,8 @@
-# Patrick Morgan :golf:
+# Patrick Morgan :golf: ⛷️ 🎾 ♻️
 
-Extensive experience within the education technology sector and my passion for teaching others computer science has shaped my career over the years. I hold a B.S. in Biochemistry from Syracuse University and am working towards my M.S. in Sustainability Science. I am a licensed private career school teacher in computer programming through the New York State Education Department. I am also a certified APMG university instructor in cybersecurity through ISACA. I am an English first language speaker and have recently begun my journey to learning Japanese, ganbatte.
+Extensive experience in the education technology sector and my passion for teaching others computer science has shaped my career. I transitioned into the climate technology and sustainability sector in 2023, focusing on machine learning and data science consulting through my company [NetZeroDev](https://netzerodev.earth/). I also mentor early-stage startups throughout the climate space. I am culminating my experiences building custom LMS, teaching CS, and passion for fighting climate change into a university that upskill senior engineers looking to transition into climate tech. I am a fervent wildlife conservationist and believe we can make a difference in fighting climate change, bringing a more equitable future for all.
 
-## Around The Web
-
-:movie_camera: [How to Answer a Technical Question in an Interview](https://www.youtube.com/watch?v=-cGg9G4Bt-o)
-
-:movie_camera: [Front-End vs Back-End Development](https://www.youtube.com/watch?v=9yq62ySFNLw)
-
-:movie_camera: [Data Structures](https://www.youtube.com/watch?v=ubR5hrljb5s)
-
-:snake: [Python Web Scraping and Data Aggregation Pipelines](https://www.jpsignum.com/blog/5c6ba462f909a641d754fe79)
-
-:book: [Closures in Javascript](https://gist.github.com/jp-signum/286e0d618936661b9638ef0eec58f755)
+I hold a B.S. in Biochemistry from Syracuse University and am a native English speaker. I just started my journey of learning Japanese and plan also to learn ASL and Gaelic. I am a licensed private career school teacher in computer programming through the New York State Education Department and a certified APMG university instructor in cybersecurity through ISACA. I am an avid music collector, skier, golfer, and tennis player currently residing in Brooklyn, NY.
 
 ## Connect With Me
 
