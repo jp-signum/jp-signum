@@ -10,4 +10,4 @@ I hold a B.S. in Biochemistry from Syracuse University and am a native English s
 
 :link: [LinkedIn](https://www.linkedin.com/in/pjmorgan)
 
-:musical_note: My Record Collection — [Discogs](https://www.discogs.com/user/nostrand_ave_records/collection) ‡ [Bandcamp](https://bandcamp.com/jay_shizaru)
+:musical_note: My Record Collection — [Discogs](https://www.discogs.com/user/nostrand_ave_records/collection) & [Bandcamp](https://bandcamp.com/jay_shizaru)
