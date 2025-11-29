@@ -1,13 +1,11 @@
 # Patrick Morgan :golf: ⛷️ 🎾 ♻️
 
-With extensive experience in the education technology sector, I have built my career around a passion for teaching computer science. As a fervent wildlife conservationist, I believe in the power of technology to combat climate change and promote a more equitable future for all. I exist at the intersection of machine learning, software engineering, and climate science. Focusing on causes and organizations that aim to make a difference.
+I work at the intersection of climate, machine learning, and public-interest technology — building geospatial and environmental data systems that strengthen data integrity, accessibility, and scientific transparency. My work spans atmospheric ML, environmental monitoring, GIS data engineering, and resilient data workflows for climate research and civic-tech organizations.
 
-I hold a B.S. in Biochemistry from Syracuse University and am a native English speaker. I'm learning Japanese and plan to study American Sign Language and Gaelic. I am a licensed private career school teacher in computer programming through the New York State Education Department and a certified APMG university instructor in cybersecurity through ISACA. I enjoy collecting music, skiing, golfing, and playing tennis, and I currently reside in Brooklyn, NY.
+Syracuse University alumnus (Biochemistry). Based in Brooklyn, NY.
 
 ## Connect With Me
 
-:computer: [Kaggle](https://www.kaggle.com/pjmorgan716)
+:computer: [patrickmorgan.dev](https://www.patrickmorgan.dev/)
 
 :link: [LinkedIn](https://www.linkedin.com/in/pjmorgan)
-
-:musical_note: My Record Collection — [Discogs](https://www.discogs.com/user/nostrand_ave_records/collection) & [Bandcamp](https://bandcamp.com/jay_shizaru)
